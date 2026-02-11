@@ -6,6 +6,7 @@
 ![openpyxl](https://img.shields.io/badge/openpyxl-3.1%2B-lightgrey)
 ![tkinter](https://img.shields.io/badge/tkinter-supported-brightgreen)
 ![platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightblue)
+![icon](icon.png)
 
 ---
 
