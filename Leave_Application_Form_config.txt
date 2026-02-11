@@ -1,0 +1,2 @@
+Leave_Application_Form_EXCEL_PATH = "火影員工名單.xlsx"
+Leave_Application_Form_COPY_EXCEL_PATH = "火影請假單 Leave App Form.xlsx"
